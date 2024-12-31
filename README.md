@@ -49,7 +49,7 @@ Results are displayed in the terminal or command prompt.
 2. Run the script using Python:
 
    ```bash
-   python system_info_collector.py
+   python reggie.py
    ```
 
 The script will:
