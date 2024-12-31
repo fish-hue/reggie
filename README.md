@@ -105,8 +105,6 @@ Current User:
   john_doe
 ```
 
-A text file `system_report.txt` will also be generated with the same information, which can be opened with any text editor.
-
 ## Notes
 
 - Running the script with administrator privileges is required to access certain registry values and run system utilities like `netsh` and `wmic`.
