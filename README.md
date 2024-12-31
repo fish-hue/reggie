@@ -38,7 +38,7 @@ Results are displayed in the terminal or command prompt.
 2. Navigate to the directory containing the script:
 
    ```bash
-   cd reggie/system-information-collector
+   cd reggie/reggie.py
    ```
 
 3. Install any required dependencies (if any, but currently none).
