@@ -1,5 +1,5 @@
 ```markdown
-# Windows Registry System Information Collector
+# A Windows Registry Information Gathering Tool
 
 This Python script collects various system information from a Windows machine and generates a report that includes details about installed software, network adapters, mapped network drives, USB devices, firewall status, and more. The script pulls data from the Windows Registry and other system utilities to gather relevant information.
 
